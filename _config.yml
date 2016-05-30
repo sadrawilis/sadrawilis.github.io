@@ -28,7 +28,7 @@ kramdown:
 # Site owner
 owner:
   name: sadra wilis
-  avatar: bio-photo.jpg
+  avatar: "/assets/B612_20160329_140642.jpg"
   bio: "Describe your self."
   email: 
   disqus-shortname: 
