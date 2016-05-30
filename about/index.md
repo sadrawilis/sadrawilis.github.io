@@ -18,3 +18,4 @@ Fakultas: Sains dan Teknologi<br>
 [sistem informasi](http://sif.uin-suska.ac.id)<br>
 [uin suska](http://uin-suska.ac.id)<br>
 <img src="/assets/B612_20160329_140642.jpg">
+
